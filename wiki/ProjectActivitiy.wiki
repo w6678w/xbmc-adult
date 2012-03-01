@@ -3,9 +3,7 @@ UNDER CONSTRUCTION
 = Introduction =
 
 
-<wiki:gadget url="http://google-code-project-hosting-gadgets.googlecode.com/svn/build/prod/downloads/gcDownloads.xml&up_projectName=xbmc-adult" height="200" border="0" />
-
-<wiki:gadget url="http://google-code-project-hosting-gadgets.googlecode.com/svn/build/prod/issueupdates/gcIssueUpdates.xml&up_projectName=xbmc-adult height="200" border="0" />
+|| <wiki:gadget url="http://google-code-project-hosting-gadgets.googlecode.com/svn/build/prod/issueupdates/gcIssueUpdates.xml" up_projectName="xbmc-adult" height="100" border="0" /> || <wiki:gadget url="http://google-code-project-hosting-gadgets.googlecode.com/svn/build/prod/changes/gcChanges.xml" up_projectName="xbmc-adult" height="100" border="0" /> ||
 
 
 = Details =
