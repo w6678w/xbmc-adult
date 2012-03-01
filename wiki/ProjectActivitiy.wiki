@@ -1,0 +1,16 @@
+#summary Project Activity
+UNDER CONSTRUCTION
+= Introduction =
+
+
+<wiki:gadget url="http://google-code-project-hosting-gadgets.googlecode.com/svn/build/prod/downloads/gcDownloads.xml&up_projectName=xbmc-adult" height="200" border="0" />
+
+<wiki:gadget url="http://google-code-project-hosting-gadgets.googlecode.com/svn/build/prod/issueupdates/gcIssueUpdates.xml&up_projectName=xbmc-adult height="200" border="0" />
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
