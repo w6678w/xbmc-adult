@@ -15,7 +15,8 @@ Pay particular attention to *indentation* and *line length*
 
 http://google-styleguide.googlecode.com/svn/trunk/pyguide.html
 
-= Committing code =
+
+= Committing code (contributors with commit access only) =
 Make sure to update `addon.xml` in the plugin directory then run 
 {{{
 python addons_xml_generator.py
