@@ -1,0 +1,23 @@
+#summary One-sentence summary of this page.
+
+= Guidelines for developers and contributors =
+In general if you want new sites added please submit them as additions to the videodevil plugin. Create a new issue and attach the patch to the issue report.
+
+Only create a new plugin if there is a good reason why it can't be added to videodevil.
+
+We will try to fix broken plugins or sites but sometimes we will just delete them if there is no interest or the fix is too complex.
+
+In all cases make sure you follow the coding standards.
+
+
+= Coding standards =
+Pay particular attention to *indentation* and *line length*
+
+http://google-styleguide.googlecode.com/svn/trunk/pyguide.html
+
+= Committing code =
+Make sure to update `addon.xml` in the plugin directory then run 
+{{{
+python addons_xml_generator.py
+}}}
+in the topmost directory and commit all the resulting changes.
