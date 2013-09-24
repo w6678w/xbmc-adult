@@ -5,9 +5,13 @@ In general if you want new sites added please submit them as additions to the vi
 
 Only create a new plugin if there is a good reason why it can't be added to videodevil.
 
+If you would like to submit changes say
+  * What you are doing. Sometimes implementation does not match design
+  * Why you are making this change. Why should the changes be made to the code.
+
 We will try to fix broken plugins or sites but sometimes we will just delete them if there is no interest or the fix is too complex.
 
-In all cases make sure you follow the coding standards.
+In all cases make sure you follow the coding standards. If you are submitting changes use diff to create a patch http://en.wikipedia.org/wiki/Patch_(Unix)#Usage_examples
 
 
 = Coding standards =
